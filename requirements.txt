@@ -1,4 +1,0 @@
-ffmpeg-python
-googletrans
-cryptography
-git+https://github.com/openai/whisper.git
